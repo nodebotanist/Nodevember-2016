@@ -1,0 +1,1 @@
+docker run --name nodevember-web-live -v /Users/nodebotanist/Dev/work/demos/Nodevember/web-server/data:/data/server -p 127.0.0.1:1338:1337 -d nodevember-web
